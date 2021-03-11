@@ -64,14 +64,14 @@ a {
 }
 
 .btn-blue {
-  background-color: #3f72af;
+  background-color: #112d4e;
   color:  #f9f7f7;
   padding: 15px 20px;
   border-radius: 4px;
 }
 
 .btn-blue:hover {
-  background-color: #112d4e;
+  background-color: #3f72af;
   color:  #f9f7f7;
 }
 
@@ -86,10 +86,10 @@ a {
 }
 
 .list-inline i {
-  font-size: 50px;
-  color: #dbe2ef;
+  font-size: 30px;
+  color: #112d4e;
 }
 
 .list-inline i:hover {
-  color: #112d4e;
+  color: #3f72af;
 }
